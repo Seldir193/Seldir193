@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Seldir193/Seldir193/main/assets/header.svg"
+  <img src="https://raw.githubusercontent.com/Seldir193/Seldir193/main/assets/github-header-image.png"
        alt="Code-Banner mit deinem Slogan">
 </p>
 

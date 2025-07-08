@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Rust** & **Clean Architecture**
 - 👯 I’m looking to collaborate on **Open-Source Angular projects**
 - 💬 Ask me about **Angular&nbsp;· Node&nbsp;· Docker · DevOps**
-- 📫 How to reach me: **selcuk.kocyigit@protonmail.com**
+- 📫 How to reach me: **info@selcuk-kocyigit.de**
 - ⚡ Fun fact: *Coffee fuels my coding power-ups ☕*
 
 ---
@@ -90,6 +90,3 @@
 
 ---
 
-<p align="center">
-  ✨ _Generated with ❤️ by <a href="https://chat.openai.com">ChatGPT</a>_
-</p>

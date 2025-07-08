@@ -80,10 +80,10 @@
 ## 🤝 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/selcuk-kocyigit">
+  <a https://www.linkedin.com/in/kocyigit-selcuk-2933aa219/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:selcuk.kocyigit@protonmail.com">
+  <a href="mailto:info@selcuk-kocyigit.de">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>

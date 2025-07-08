@@ -15,9 +15,9 @@
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on **_TODO: aktuelles Projekt_**
-- 🌱 I’m currently learning **Rust** & **Clean Architecture**
-- 👯 I’m looking to collaborate on **Open-Source Angular projects**
+- 🔭 I’m currently **open for new projects and collaborations.**
+- 🌱 Always curious about new frontend tooling.
+- 👯 - 👯 I’m looking to collaborate on **Python data-pipelines**
 - 💬 Ask me about **Angular&nbsp;· Node&nbsp;· Docker · DevOps**
 - 📫 How to reach me: **info@selcuk-kocyigit.de**
 - ⚡ Fun fact: *Coffee fuels my coding power-ups ☕*

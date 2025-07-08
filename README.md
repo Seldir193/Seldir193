@@ -89,7 +89,7 @@
 ## 🤝 Connect with Me
 
 <p>
-  <a https://www.linkedin.com/in/kocyigit-selcuk-2933aa219/">
+  <a href="https://www.linkedin.com/in/kocyigit-selcuk-2933aa219/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:info@selcuk-kocyigit.de">

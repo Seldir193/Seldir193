@@ -1,16 +1,95 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Seldir193/Seldir193/main/assets/header.svg"
+       alt="Code-Banner mit deinem Slogan">
+</p>
 
-<!--
-**Seldir193/Seldir193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi there, I'm <span style="color:#007ACC">Selcuk Kocyigit</span> 👋
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>A passionate Full-Stack Developer from Germany</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+- 🔭 I’m currently working on **_TODO: aktuelles Projekt_**
+- 🌱 I’m currently learning **Rust** & **Clean Architecture**
+- 👯 I’m looking to collaborate on **Open-Source Angular projects**
+- 💬 Ask me about **Angular&nbsp;· Node&nbsp;· Docker · DevOps**
+- 📫 How to reach me: **selcuk.kocyigit@protonmail.com**
+- ⚡ Fun fact: *Coffee fuels my coding power-ups ☕*
+
+---
+
+## 🛠️ Technologies & Tools
+
+<!-- Wähle nur die Badges, die wirklich dein Profil widerspiegeln -->
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <!-- Gesamt-Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Seldir193&show_icons=true&hide=prs&theme=default"
+       alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <!-- Commit-Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seldir193&theme=default"
+       alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- Top Sprachen -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seldir193&layout=compact&theme=default"
+       alt="Top Languages"/>
+</p>
+
+---
+
+## 📌 Pinned Repositories
+
+
+<p align="center">
+  <a href="https://github.com/Seldir193/REPO1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seldir193&repo=REPO1" />
+  </a>
+  <a href="https://github.com/Seldir193/REPO2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seldir193&repo=REPO2" />
+  </a>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/selcuk-kocyigit">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:selcuk.kocyigit@protonmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ _Generated with ❤️ by <a href="https://chat.openai.com">ChatGPT</a>_
+</p>

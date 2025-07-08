@@ -65,15 +65,24 @@
 
 ## 📌 Pinned Repositories
 
-
 <p align="center">
-  <a href="https://github.com/Seldir193/REPO1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seldir193&repo=REPO1" />
+  <a href="https://github.com/Seldir193/El-Pollo-Loco">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seldir193&repo=El-Pollo-Loco" />
   </a>
-  <a href="https://github.com/Seldir193/REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seldir193&repo=REPO2" />
+  <a href="https://github.com/Seldir193/coderr_backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seldir193&repo=coderr_backend" />
+  </a>
+  <a href="https://github.com/Seldir193/DABubble">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seldir193&repo=DABubble" />
+  </a>
+  <a href="https://github.com/Seldir193/Videoflix_backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seldir193&repo=Videoflix_backend" />
+  </a>
+  <a href="https://github.com/Seldir193/Videoflix_frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seldir193&repo=Videoflix_frontend" />
   </a>
 </p>
+
 
 ---
 
